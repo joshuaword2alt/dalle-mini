@@ -267,3 +267,7 @@ Main optimizer (Distributed Shampoo) from "[Scalable Second Order Optimization f
   year = {2020},
 }
 ```
+
+
+## Alternitves
+[midjourney](https://www.midjourney.com/) discord bot ai art
