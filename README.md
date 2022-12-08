@@ -1,6 +1,7 @@
 # DALL·E Mini
 
 [![Join us on Discord](https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/xBPBXfcFHd)
+[![Join us on Discord](https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/midjourney)
 
 _Generate images from a text prompt_
 
